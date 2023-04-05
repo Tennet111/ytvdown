@@ -17,7 +17,6 @@ mock
 gunicorn
 
 you-get
-request
 requests
 
 beautifulsoup4
